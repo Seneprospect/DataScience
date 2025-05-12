@@ -1,0 +1,201 @@
+Date,Produit,Catégorie,Prix_Unitaire,Quantité,Remise (%),Client
+2023-04-13,Savon,Boissons,1.26,5,0,Client_C
+2023-06-29,Dentifrice,Boissons,6.41,8,0,Client_D
+2023-04-03,Jus,Boissons,10.97,4,15,Client_A
+2023-01-15,Pain,Alimentaire,6.87,8,0,Client_E
+2023-04-17,Pain,Boissons,16.64,2,10,Client_C
+2023-03-13,Yaourt,Hygiène,,5,0,Client_B
+2023-07-08,Jus,Produits laitiers,19.32,9,10,Client_B
+2023-01-21,Biscuit,Hygiène,9.42,4,0,Client_C
+2023-04-13,Lait,Alimentaire,16.92,6,0,Client_B
+2023-05-02,Beurre,Hygiène,4.29,1,5,Client_D
+2023-03-16,Pain,Hygiène,8.52,9,20,Client_A
+2023-03-29,Pâtes,Hygiène,14.14,1,15,Client_D
+2023-04-27,Pain,Alimentaire,3.2,-3,5,Client_B
+2023-04-10,Savon,Boissons,3.09,4,15,Client_E
+2023-04-14,Pain,Hygiène,19.41,3,0,Client_A
+2023-06-01,Pain,Alimentaire,14.43,6,20,Client_A
+2023-05-11,Lait,Alimentaire,1.3,2,0,Client_C
+2023-05-30,Lait,Produits laitiers,8.28,3,10,Client_C
+2023-02-22,Riz,Boissons,8.95,5,10,Client_E
+2023-01-02,Biscuit,Hygiène,15.01,9,10,Client_A
+2023-03-29,Pâtes,Alimentaire,5.39,2,5,Client_E
+2023-06-07,Pain,Alimentaire,4.09,8,0,Client_C
+2023-02-07,Pain,Produits laitiers,2.08,2,10,Client_C
+2023-05-10,Beurre,Boissons,8.85,5,0,Client_A
+2023-07-11,Lait,Boissons,13.93,7,20,Client_D
+2023-07-07,Pâtes,Boissons,1.63,8,100,Client_B
+2023-01-21,Yaourt,Hygiène,18.35,1,0,Client_C
+2023-06-10,Riz,Boissons,9.13,6,10,Client_C
+2023-02-27,Biscuit,Produits laitiers,5.18,1,5,Client_D
+2023-01-22,Jus,Alimentaire,2.33,2,10,Client_D
+2023-03-30,Biscuit,Hygiène,4.07,1,10,Client_E
+2023-02-18,Savon,Produits laitiers,18.72,5,0,Client_E
+2023-02-28,Pain,Boissons,12.95,9,5,Client_B
+2023-06-19,Riz,Produits laitiers,10.58,6,15,Client_B
+2023-07-07,Savon,Boissons,13.31,1,0,Client_A
+2023-01-15,Pâtes,Alimentaire,9.0,1,5,Client_E
+2023-07-09,Jus,Produits laitiers,14.74,2,0,Client_C
+2023-07-09,Lait,Produits laitiers,1.43,9,0,Client_E
+2023-06-24,Riz,Alimentaire,11.54,3,5,Client_C
+2023-07-09,Riz,Produits laitiers,3.59,1,5,Client_D
+2023-02-20,Pain,Boissons,2.84,5,0,Client_E
+2023-04-18,Dentifrice,Boissons,7.17,7,5,Client_D
+2023-02-24,Riz,Boissons,2.29,6,0,Client_B
+2023-03-05,Beurre,Boissons,2.34,1,0,Client_B
+2023-05-11,Jus,Hygiène,6.57,5,0,Client_A
+2023-02-20,Jus,Boissons,19.6,5,0,Client_E
+2023-05-15,Beurre,Produits laitiers,3.92,6,0,Client_D
+2023-01-21,Yaourt,,0.83,3,5,Client_C
+2023-03-14,Beurre,Alimentaire,15.39,5,10,Client_B
+2023-06-16,Beurre,Hygiène,16.23,7,0,Client_B
+2023-01-18,Jus,Produits laitiers,7.25,5,15,Client_C
+2023-05-12,Biscuit,Boissons,9.56,5,10,Client_D
+2023-03-30,Jus,Boissons,13.17,5,0,Client_D
+2023-03-01,Dentifrice,Boissons,1.44,3,15,Client_E
+2023-01-14,Pain,Hygiène,19.01,1,20,Client_E
+2023-01-09,Savon,Boissons,17.79,5,0,Client_A
+2023-03-31,Biscuit,Alimentaire,5.59,9,0,Client_B
+2023-02-22,Lait,Produits laitiers,0.8,1,15,Client_E
+2023-05-10,Savon,Hygiène,18.7,3,10,Client_D
+2023-03-25,Pain,Hygiène,10.27,4,0,Client_C
+2023-04-02,Dentifrice,Produits laitiers,11.02,1,10,Client_D
+2023-04-21,Dentifrice,Alimentaire,13.84,1,10,Client_B
+2023-07-07,Lait,Produits laitiers,12.51,8,10,Client_D
+2023-07-18,Biscuit,Hygiène,18.91,2,10,Client_A
+2023-06-21,Yaourt,Boissons,18.91,8,10,Client_B
+2023-01-08,Beurre,Produits laitiers,17.41,7,0,Client_C
+2023-06-24,Biscuit,Boissons,12.91,2,0,Client_A
+2023-02-04,Yaourt,Produits laitiers,16.12,6,5,Client_B
+2023-03-22,Dentifrice,Produits laitiers,13.7,6,15,Client_C
+2023-06-13,Jus,Boissons,11.68,3,0,Client_A
+2023-02-19,Pain,Hygiène,3.01,2,5,Client_A
+2023-04-14,Lait,Produits laitiers,16.32,1,5,Client_B
+2023-05-12,Pain,Produits laitiers,16.5,6,0,Client_E
+2023-01-02,Pâtes,Produits laitiers,12.71,5,10,Client_A
+2023-05-14,Pâtes,Alimentaire,16.5,9,15,Client_A
+2023-02-23,Biscuit,Boissons,13.2,1,5,Client_C
+2023-04-16,Dentifrice,Produits laitiers,4.53,7,5,Client_D
+2023-01-04,Dentifrice,Boissons,5.84,5,0,Client_B
+2023-02-23,Beurre,Hygiène,4.68,5,5,Client_B
+2023-07-10,Beurre,Boissons,7.86,2,0,Client_E
+2023-05-26,Beurre,Produits laitiers,1.26,3,0,Client_E
+2023-02-13,Jus,Produits laitiers,12.56,7,5,Client_B
+2023-06-11,Savon,Alimentaire,7.06,6,0,Client_E
+2023-07-09,Riz,Hygiène,13.29,2,0,Client_C
+2023-01-14,Savon,Produits laitiers,8.02,6,5,Client_B
+2023-04-05,Pain,Produits laitiers,13.79,2,0,Client_E
+2023-02-17,Savon,Boissons,7.14,2,0,Client_B
+2023-01-15,Jus,Boissons,5.58,2,10,Client_D
+2023-07-19,Pain,Boissons,10.17,3,5,Client_A
+2023-07-09,Savon,Hygiène,14.01,2,0,Client_B
+2023-02-09,Jus,Hygiène,7.29,4,15,Client_A
+2023-03-23,Riz,Hygiène,18.76,9,0,Client_E
+2023-04-21,Savon,Produits laitiers,1.26,6,10,Client_A
+2023-02-22,Jus,Alimentaire,8.65,1,5,Client_B
+2023-01-24,Beurre,Hygiène,19.37,8,20,Client_D
+2023-06-03,Dentifrice,Produits laitiers,11.19,7,10,Client_E
+2023-07-07,Beurre,Boissons,8.76,3,10,Client_B
+2023-05-04,Dentifrice,Produits laitiers,11.59,1,10,Client_E
+2023-02-10,Lait,Produits laitiers,11.73,5,0,Client_C
+2023-06-06,Lait,Alimentaire,14.77,4,0,Client_A
+2023-01-15,Lait,Produits laitiers,2.99,8,10,Client_C
+2023-02-14,Riz,Produits laitiers,5.38,1,0,Client_B
+2023-03-06,Beurre,Boissons,11.82,1,10,Client_D
+2023-03-30,Dentifrice,Boissons,17.41,4,0,Client_E
+2023-03-12,Jus,Hygiène,11.46,8,5,Client_A
+2023-01-09,Pain,Produits laitiers,5.15,5,0,Client_E
+2023-03-29,Jus,Produits laitiers,13.76,2,0,Client_B
+2023-05-09,Pain,Alimentaire,14.93,6,5,Client_E
+2023-05-16,Pâtes,Produits laitiers,5.15,5,5,Client_A
+2023-03-04,Jus,Boissons,7.87,2,5,Client_B
+2023-05-19,Savon,Produits laitiers,10.92,3,0,Client_E
+2023-03-22,Savon,Alimentaire,10.18,9,0,Client_D
+2023-05-16,Biscuit,Produits laitiers,8.1,7,10,Client_B
+2023-06-12,Beurre,Boissons,6.3,7,0,Client_B
+2023-06-12,Pain,Hygiène,2.45,6,5,Client_D
+2023-02-02,Pain,Produits laitiers,1.54,8,5,Client_C
+2023-05-03,Beurre,Produits laitiers,19.19,4,10,Client_A
+2023-01-05,Riz,Produits laitiers,17.02,8,5,Client_C
+2023-02-10,Biscuit,Alimentaire,7.42,4,10,Client_E
+2023-01-28,Riz,Produits laitiers,19.16,8,20,Client_D
+2023-05-15,Riz,Hygiène,13.7,9,0,Client_C
+2023-03-13,Riz,Alimentaire,9.91,3,0,Client_B
+2023-01-12,Beurre,Produits laitiers,10.11,3,0,Client_E
+2023-06-11,Riz,Hygiène,2.12,2,0,Client_E
+2023-02-02,Savon,Hygiène,2.29,3,5,Client_C
+2023-02-17,Lait,Alimentaire,12.25,3,15,Client_C
+2023-05-31,Pâtes,Alimentaire,11.3,5,0,Client_D
+2023-03-03,Pain,Alimentaire,4.65,5,0,Client_A
+2023-02-06,Pain,Hygiène,18.95,2,0,Client_C
+2023-04-09,Pâtes,Alimentaire,15.74,6,10,Client_C
+2023-06-21,Beurre,Alimentaire,2.71,5,5,Client_B
+2023-04-14,Jus,Hygiène,18.65,6,0,Client_E
+2023-02-04,Beurre,Produits laitiers,19.5,1,15,Client_A
+2023-07-12,Pain,Produits laitiers,19.92,5,10,Client_B
+2023-04-11,Pain,Alimentaire,1.59,9,0,Client_D
+2023-06-24,Pâtes,Hygiène,14.87,2,5,Client_D
+2023-05-11,Riz,Produits laitiers,11.15,1,10,Client_C
+2023-01-01,Beurre,Boissons,14.26,9,0,Client_C
+2023-01-05,Dentifrice,Boissons,19.39,9,0,Client_D
+2023-05-22,Pâtes,Boissons,13.92,9,0,Client_C
+2023-04-13,Savon,Alimentaire,16.82,6,0,Client_A
+2023-01-27,Pain,Boissons,17.4,8,10,Client_C
+2023-05-17,Pâtes,Alimentaire,16.85,1,15,Client_E
+2023-01-15,Beurre,Produits laitiers,8.81,4,0,Client_C
+2023-03-31,Pain,Alimentaire,4.84,1,0,Client_B
+2023-02-11,Jus,Alimentaire,8.23,8,0,Client_A
+2023-05-04,Pâtes,Alimentaire,17.89,1,0,Client_B
+2023-06-28,Biscuit,Boissons,3.36,3,10,Client_B
+2023-03-04,Pain,Boissons,10.51,4,0,Client_E
+2023-04-06,Beurre,Boissons,5.05,8,0,Client_A
+2023-02-21,Lait,Produits laitiers,11.84,6,0,Client_A
+2023-04-06,Dentifrice,Boissons,17.33,7,5,Client_A
+2023-05-12,Yaourt,Hygiène,17.67,8,0,Client_A
+2023-05-31,Riz,Produits laitiers,5.12,2,10,Client_A
+2023-05-23,Yaourt,Boissons,18.2,8,0,Client_E
+2023-06-20,Beurre,Hygiène,12.04,3,10,Client_C
+2023-01-29,Savon,Alimentaire,7.33,7,5,Client_B
+2023-02-05,Savon,Hygiène,14.31,3,0,Client_A
+2023-01-13,Lait,Hygiène,9.89,7,0,Client_C
+2023-06-09,Riz,Hygiène,7.87,2,15,Client_C
+2023-03-12,Biscuit,Alimentaire,14.25,6,15,Client_B
+2023-07-06,Lait,Boissons,5.35,3,0,Client_E
+2023-03-27,Yaourt,Boissons,6.94,3,0,Client_D
+2023-01-28,Lait,Alimentaire,8.97,9,15,Client_D
+2023-03-07,Yaourt,Hygiène,5.45,7,5,Client_C
+2023-06-19,Pain,Boissons,8.4,5,0,Client_B
+2023-02-14,Savon,Boissons,11.64,7,15,Client_D
+2023-03-03,Pain,Produits laitiers,14.95,9,0,Client_C
+2023-07-04,Dentifrice,Hygiène,15.46,1,5,Client_E
+2023-05-14,Riz,Hygiène,16.54,7,0,Client_D
+2023-01-28,Biscuit,Produits laitiers,15.01,6,0,Client_C
+2023-01-28,Yaourt,Hygiène,13.78,9,0,Client_C
+2023-04-18,Biscuit,Produits laitiers,5.13,1,10,Client_A
+2023-02-13,Yaourt,Boissons,8.3,4,0,Client_E
+2023-03-25,Beurre,Produits laitiers,9.82,9,0,Client_A
+2023-01-30,Lait,Boissons,2.12,4,0,Client_B
+2023-07-09,Dentifrice,Alimentaire,10.8,3,5,Client_A
+2023-03-16,Savon,Produits laitiers,9.01,9,20,Client_A
+2023-05-08,Yaourt,Boissons,16.14,2,0,Client_D
+2023-04-02,Biscuit,Produits laitiers,19.57,4,5,Client_C
+2023-07-09,Dentifrice,Boissons,11.34,6,15,Client_E
+2023-05-09,Jus,Produits laitiers,6.79,2,5,Client_A
+2023-05-01,Jus,Hygiène,1.35,8,0,Client_E
+2023-01-27,Pain,Boissons,18.53,8,0,Client_A
+2023-07-09,Savon,Alimentaire,18.42,1,0,Client_B
+2023-05-01,Beurre,Boissons,5.43,3,0,Client_A
+2023-04-26,Biscuit,Boissons,14.06,9,0,Client_D
+2023-01-03,Lait,Hygiène,1.97,5,10,Client_C
+2023-04-13,Lait,Produits laitiers,3.74,6,0,Client_B
+2023-07-17,Biscuit,Produits laitiers,4.73,4,0,Client_A
+2023-07-19,Riz,Boissons,6.24,2,5,Client_E
+2023-06-04,Beurre,Produits laitiers,19.92,8,0,Client_B
+2023-05-17,Dentifrice,Boissons,14.09,6,10,Client_B
+2023-03-03,Yaourt,Boissons,7.99,5,5,Client_A
+2023-06-14,Riz,Hygiène,14.87,9,0,Client_B
+2023-02-20,Yaourt,Hygiène,18.35,1,10,Client_E
+2023-06-21,Yaourt,Boissons,19.19,5,5,Client_B
+2023-06-01,Riz,Alimentaire,1.63,6,5,Client_E
+2023-02-28,Pain,Alimentaire,8.19,5,0,Client_A
+2023-04-28,Jus,Boissons,2.58,6,0,Client_C
